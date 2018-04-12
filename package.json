@@ -1,0 +1,22 @@
+{
+  "name": "backbone-collection-subsets",
+  "version": "1.0.0",
+  "description": "Simple Collection Subsets for Backbone",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:jmeit/Backbone.CollectionSubsets.git"
+  },
+  "keywords": [
+    "backbone",
+    "collection",
+    "subset",
+    "subsets",
+    "simple"
+  ],
+  "author": "Jared Meit",
+  "license": "ISC"
+}
